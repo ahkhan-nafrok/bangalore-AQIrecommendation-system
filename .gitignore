@@ -1,0 +1,28 @@
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.h5
+*.joblib
+.env
+venv/
+.env/
+data/*.csv
+
+# === Flask ===
+instance/
+*.db
+*.sqlite3
+
+# === Node / React ===
+node_modules/
+build/
+dist/
+*.log
+.DS_Store
+
+# === Git ===
+.git/
+.gitattributes
